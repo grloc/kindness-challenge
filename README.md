@@ -1,8 +1,13 @@
 # Kindness Challenge 
 
 Tool: Agentbox v2 sandbox on GMI Cloud
-Model: No GMI model used - Python script without model
+
+Model: No GMI model used - Python 
+
+script without model
+
 Run: us-central-iowa16
+
 By: Azouaou Ait Dris
 
 ## Before / After
