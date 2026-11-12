@@ -1,1 +1,8 @@
-
+name,url,category,description
+  Welcome Guide  ,https://example.org/welcome, getting started , Start here for a friendly introduction 
+Office Hours,https://example.org/office-hours, EVENTS, Ask a question together
+Welcome guide,https://example.org/welcome,Getting Started,Duplicate resource
+Sample Notebook,https://example.org/notebook, tutorials , A tiny worked example
+Broken Resource,not-a-url,Tutorials,Needs a valid link
+ ,https://example.org/unnamed,events,Missing title
+Community FAQ,https://example.org/faq,, Answers to common questions
