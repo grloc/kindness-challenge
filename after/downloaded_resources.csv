@@ -1,1 +1,6 @@
 
+order,name,url,category,level,next_step,description
+1,Welcome Guide,https://example.org/welcome,Getting Started,Beginner,Start here first (2 min read),Start here for a friendly introduction.
+2,Community FAQ,https://example.org/faq,Help & FAQ,Beginner,Check here before asking,Answers to common questions.
+3,Office Hours,https://example.org/office-hours,Events,All levels,Join and ask a question together,Ask a question together.
+4,Sample Notebook,https://example.org/notebook,Tutorials,Intermediate,Try this tiny example,A tiny worked example.
