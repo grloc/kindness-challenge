@@ -8,6 +8,10 @@ script without model
 
 Run: us-central-iowa16
 
+before/ = old messy file, for explanation
+
+after/ + scripts/ = corrected files
+
 By: Azouaou Ait Dris
 
 ## Before / After
