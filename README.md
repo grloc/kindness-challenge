@@ -1,4 +1,4 @@
-# Kindness Challenge - Clean Proof
+# Kindness Challenge 
 
 Tool: Agentbox v2 sandbox on GMI Cloud
 Model: No GMI model used - Python script without model
